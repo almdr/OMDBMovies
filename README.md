@@ -2,7 +2,9 @@
 
 Run:
 1 Open the MovieSearch.xcodeproj in Xcode.
+
 2 Choose an simulator.
+
 3 Hit run.
 
 Technical decision:
