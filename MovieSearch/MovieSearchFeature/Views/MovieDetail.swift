@@ -35,7 +35,7 @@ struct MovieDetail: View {
                     .foregroundColor(.gray)
             }
 
-            Text("RatingURLCache: \(movieDetail?.imdbRating ?? "")")
+            Text("Rating: \(movieDetail?.imdbRating ?? "")")
                 .padding()
 
         }
