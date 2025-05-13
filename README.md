@@ -1,6 +1,7 @@
 # OMDBMovies
 
 Run:
+
 1 Open the MovieSearch.xcodeproj in Xcode.
 
 2 Choose an simulator.
